@@ -6,6 +6,7 @@
 ![JAVA项目实战-嗨购网上商城](images/3.5java项目实战海购网上商城.jpg)
 ## [JAVA项目实战-嗨购网上商城](http://www.maiziedu.com/course/360/)
 ![项目三.移动接口](images/3.6项目三.移动接口.jpg)
+### [项目三.移动接口](http://www.maiziedu.com/course/java/)
 
 ## 项目三.移动接口
 
